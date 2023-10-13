@@ -5,6 +5,8 @@ commands
 <br>
 cd <-file name->
 <br>
+cd ..  
+<br>
 ls
 <br>
 git clone <-link->
@@ -16,3 +18,7 @@ git add <-file name->
 git commit -m "some message"
 <br>
 git push origin main 
+<hr>
+Git init commands:
+<br>
+new directory- mkdir <-Name->
