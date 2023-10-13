@@ -22,3 +22,14 @@ git push origin main
 Git init commands:
 <br>
 new directory- mkdir <-Name->
+<br>
+make a git repo- git init
+<br>
+add a origin- git remote add origin <-link->
+<br>
+to check the branch- git branch
+<br>
+to verfiy remote- git remote -v
+<br>
+to push with default as main- git push -u origin main
+<br>
