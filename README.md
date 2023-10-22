@@ -1,3 +1,3 @@
 # Basic_Projects_frontend
-Name- Shaurya
+Name- Shaurya Jha
 
